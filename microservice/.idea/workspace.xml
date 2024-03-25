@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b88158bb-95d0-4fcf-9a5e-71332cdae05b" name="Changes" comment="Refactoring">
+      <change afterPath="$PROJECT_DIR$/../frontend-crm/public/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend-crm/public/testing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend-crm/public/trainee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend-crm/public/trainer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend-crm/public/video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend-crm/src/app/shared-ui/breadcrumb/breadcrumb.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend-crm/src/app/shared-ui/home/home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend-crm/src/app/shared-ui/joinUs/joinUsContainer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend-crm/src/app/shared-ui/modalBox/modalBox.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend-crm/src/app/shared-ui/myAccaunt/account.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend-crm/src/app/shared-ui/myAccaunt/myAccount.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend-crm/src/app/shared-ui/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend-crm/src/app/shared-ui/table/table.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/app/shared-ui/box/box.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/app/shared-ui/button/button.models.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/app/shared-ui/button/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/app/shared-ui/footer/footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/app/shared-ui/header/header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/app/shared-ui/joinUs/joinUs.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/app/shared-ui/login/login.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/app/shared-ui/login/login.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/app/shared-ui/navigation/navigation.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/app/shared-ui/register/register.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend/src/app/shared-ui/register/register.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="microservice" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="microservice" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="spring-security" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2VbpogXdxQd6GCRaEZeTKW5K55h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "frontend-layout",
+    "jdk.selected.JAVA_MODULE": "17 (3)",
+    "last_opened_file_path": "D:/gym-project/gym-crm-system/microservice/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "spring.configuration.checksum": "c38d2554a47067dba649709913530e2a",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mongo",
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.microservice" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gym-project\gym-crm-system\microservice\src\main\resources" />
+      <recent name="D:\gym-project\gym-crm-system\microservice" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.microservice.config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MicroserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="microservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.microservice.MicroserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b88158bb-95d0-4fcf-9a5e-71332cdae05b" name="Changes" comment="" />
+      <created>1695114810965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695114810965</updated>
+      <workItem from="1695114812481" duration="6534000" />
+      <workItem from="1695196699302" duration="11690000" />
+      <workItem from="1695361298552" duration="2879000" />
+      <workItem from="1695368854441" duration="7328000" />
+      <workItem from="1695722648275" duration="11021000" />
+      <workItem from="1695796730857" duration="986000" />
+      <workItem from="1695801945799" duration="3463000" />
+      <workItem from="1696326468446" duration="1406000" />
+      <workItem from="1696357132055" duration="246000" />
+      <workItem from="1696357396655" duration="751000" />
+      <workItem from="1697427650215" duration="427000" />
+      <workItem from="1697872240276" duration="2173000" />
+      <workItem from="1698118800187" duration="1088000" />
+      <workItem from="1698178052350" duration="895000" />
+      <workItem from="1698214054116" duration="9352000" />
+      <workItem from="1698348322405" duration="2703000" />
+      <workItem from="1698397603669" duration="4522000" />
+      <workItem from="1698739296788" duration="9349000" />
+      <workItem from="1698849201088" duration="265000" />
+      <workItem from="1698852739175" duration="444000" />
+      <workItem from="1698907911635" duration="1670000" />
+      <workItem from="1705914451063" duration="3556000" />
+    </task>
+    <task id="LOCAL-00001" summary="Microservice">
+      <option name="closed" value="true" />
+      <created>1695287405081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695287405081</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change gitignore">
+      <option name="closed" value="true" />
+      <created>1695361447083</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695361447083</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change gitignore">
+      <option name="closed" value="true" />
+      <created>1695361477446</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695361477446</updated>
+    </task>
+    <task id="LOCAL-00004" summary="JMS microservice impl">
+      <option name="closed" value="true" />
+      <created>1695381950871</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695381950871</updated>
+    </task>
+    <task id="LOCAL-00005" summary="NoSQL task impl">
+      <option name="closed" value="true" />
+      <created>1695795915874</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695795915874</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Index impl for email">
+      <option name="closed" value="true" />
+      <created>1695797055753</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695797055753</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Docker compose for mongodb">
+      <option name="closed" value="true" />
+      <created>1695803760865</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695803760865</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Change configs to work with AWS">
+      <option name="closed" value="true" />
+      <created>1698826134533</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698826134533</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Exception handling and OpenApi config">
+      <option name="closed" value="true" />
+      <created>1698826162530</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698826162530</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Refactoring">
+      <option name="closed" value="true" />
+      <created>1698826233423</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698826233424</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Microservice" />
+    <MESSAGE value="change gitignore" />
+    <MESSAGE value="JMS microservice impl" />
+    <MESSAGE value="NoSQL task impl" />
+    <MESSAGE value="Index impl for email" />
+    <MESSAGE value="Docker compose for mongodb" />
+    <MESSAGE value="Change configs to work with AWS" />
+    <MESSAGE value="Exception handling and OpenApi config" />
+    <MESSAGE value="Refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

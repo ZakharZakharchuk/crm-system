@@ -1,0 +1,5 @@
+aws:
+  accessKey: 
+  secretKey: 
+s3:
+  bucketName: s3://gym-crm-zakhar-zakharchuk

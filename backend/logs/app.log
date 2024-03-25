@@ -1,0 +1,100 @@
+[INFO ] 2023-08-17 15:10:27.391 [main] GymFacadeImpl - Get training with id: 1
+[INFO ] 2023-08-17 15:10:27.446 [main] GymFacadeImpl - Create trainee
+[INFO ] 2023-08-17 15:10:27.457 [main] GymFacadeImpl - Create trainer
+[INFO ] 2023-08-17 15:10:27.470 [main] GymFacadeImpl - Get trainingType with id: 1
+[INFO ] 2023-08-17 15:10:27.477 [main] GymFacadeImpl - Get trainee with id: 1
+[INFO ] 2023-08-17 15:10:27.483 [main] GymFacadeImpl - Get trainer with id: 1
+[INFO ] 2023-08-17 15:10:27.491 [main] GymFacadeImpl - Create training
+[INFO ] 2023-08-17 15:10:27.501 [main] GymFacadeImpl - Create trainingType
+[INFO ] 2023-08-25 20:00:02.424 [main] TraineeService - A trainee with this id does not exist
+[INFO ] 2023-08-25 20:00:02.457 [main] TraineeService - A trainee with this id does not exist
+[INFO ] 2023-08-25 20:00:02.579 [main] TrainerService - A trainer with this id does not exist
+[INFO ] 2023-08-25 20:00:16.857 [main] TraineeService - A trainee with this id does not exist
+[INFO ] 2023-08-25 20:00:16.887 [main] TraineeService - A trainee with this id does not exist
+[INFO ] 2023-08-25 20:00:17.022 [main] TrainerService - A trainer with this id does not exist
+[INFO ] 2023-08-25 20:00:34.935 [main] TraineeService - A trainee with this id does not exist
+[INFO ] 2023-08-25 20:00:34.967 [main] TraineeService - A trainee with this id does not exist
+[INFO ] 2023-08-25 20:00:35.112 [main] TrainerService - A trainer with this id does not exist
+[INFO ] 2023-08-25 20:01:20.559 [main] TraineeService - A trainee with this id does not exist
+[INFO ] 2023-08-25 20:01:20.587 [main] TraineeService - A trainee with this id does not exist
+[INFO ] 2023-08-25 20:01:20.732 [main] TrainerService - A trainer with this id does not exist
+[INFO ] 2023-08-28 12:23:30.183 [main] TraineeService - A trainee with this id does not exist
+[INFO ] 2023-08-28 12:23:30.227 [main] TraineeService - A trainee with this id does not exist
+[INFO ] 2023-08-28 12:23:30.400 [main] TrainerService - A trainer with this id does not exist
+[INFO ] 2023-08-28 17:45:15.442 [main] TraineeService - A trainee with this id does not exist
+[INFO ] 2023-08-28 17:45:15.479 [main] TraineeService - A trainee with this id does not exist
+[INFO ] 2023-08-28 17:45:15.633 [main] TrainerService - A trainer with this id does not exist
+[INFO ] 2023-08-28 17:46:47.266 [main] TraineeService - A trainee with this id does not exist
+[INFO ] 2023-08-28 17:46:47.303 [main] TraineeService - A trainee with this id does not exist
+[INFO ] 2023-08-28 17:46:47.462 [main] TrainerService - A trainer with this id does not exist
+[INFO ] 2023-08-31 09:07:11.381 [main] ApplicationInitializer - Starting ApplicationInitializer using Java 17.0.6 on DESKTOP-9HQBOHA with PID 15496 (D:\gym-project\gym-crm-system\backend\target\classes started by zahar in D:\gym-project\gym-crm-system\backend)
+[DEBUG] 2023-08-31 09:07:11.386 [main] ApplicationInitializer - Running with Spring Boot v2.7.10, Spring v6.0.11
+[INFO ] 2023-08-31 09:07:11.387 [main] ApplicationInitializer - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-31 09:07:11.547 [main] ApplicationInitializer - Started ApplicationInitializer in 0.649 seconds (JVM running for 1.735)
+[INFO ] 2023-08-31 10:51:35.732 [main] ApplicationInitializer - Starting ApplicationInitializer using Java 17.0.6 on DESKTOP-9HQBOHA with PID 4956 (D:\gym-project\gym-crm-system\backend\target\classes started by zahar in D:\gym-project\gym-crm-system\backend)
+[DEBUG] 2023-08-31 10:51:35.736 [main] ApplicationInitializer - Running with Spring Boot v2.7.10, Spring v6.0.11
+[INFO ] 2023-08-31 10:51:35.738 [main] ApplicationInitializer - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-08-31 15:38:11.611 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-08-31 15:38:11.622 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-08-31 15:38:11.722 [main] TrainerService - Such trainer does not exist
+[INFO ] 2023-08-31 15:38:50.435 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-08-31 15:38:50.446 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-08-31 15:38:50.541 [main] TrainerService - Such trainer does not exist
+[INFO ] 2023-08-31 15:41:28.548 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-08-31 15:41:28.560 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-08-31 15:41:28.660 [main] TrainerService - Such trainer does not exist
+[INFO ] 2023-08-31 15:50:47.224 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-08-31 15:50:47.240 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-08-31 15:50:47.335 [main] TrainerService - Such trainer does not exist
+[INFO ] 2023-08-31 15:51:32.151 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-08-31 15:51:32.164 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-08-31 15:51:32.269 [main] TrainerService - Such trainer does not exist
+[INFO ] 2023-09-05 14:40:14.983 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-09-05 14:40:15.001 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-09-05 14:40:15.156 [main] TrainerService - Such trainer does not exist
+[INFO ] 2023-09-05 14:48:59.613 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-09-05 14:48:59.629 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-09-05 14:48:59.782 [main] TrainerService - Such trainer does not exist
+[INFO ] 2023-09-05 14:57:41.810 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-09-05 14:57:41.828 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-09-05 14:57:42.014 [main] TrainerService - Such trainer does not exist
+[INFO ] 2023-09-05 14:59:29.788 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-09-05 14:59:29.816 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-09-05 14:59:30.001 [main] TrainerService - Such trainer does not exist
+[INFO ] 2023-09-05 15:01:48.861 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-09-05 15:01:48.879 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-09-05 15:01:49.003 [main] TrainerService - Such trainer does not exist
+[INFO ] 2023-09-05 15:03:44.718 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-09-05 15:03:44.726 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-09-05 15:03:44.820 [main] TrainerService - Such trainer does not exist
+[INFO ] 2023-09-05 15:05:17.705 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-09-05 15:05:17.723 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-09-05 15:05:17.881 [main] TrainerService - Such trainer does not exist
+[INFO ] 2023-09-20 11:58:29.902 [main] GymFacadeImpl - Get training with id: 1
+[INFO ] 2023-09-20 11:58:29.919 [main] GymFacadeImpl - Create trainee
+[INFO ] 2023-09-20 11:58:29.931 [main] GymFacadeImpl - Create trainer
+[INFO ] 2023-09-20 11:58:29.949 [main] GymFacadeImpl - Get trainingType with id: 1
+[INFO ] 2023-09-20 11:58:29.958 [main] GymFacadeImpl - Get trainee with id: 1
+[INFO ] 2023-09-20 11:58:29.965 [main] GymFacadeImpl - Get trainer with id: 1
+[INFO ] 2023-09-20 11:58:29.970 [main] GymFacadeImpl - Create training
+[INFO ] 2023-09-20 11:58:29.977 [main] GymFacadeImpl - Create trainingType
+[INFO ] 2023-09-20 12:00:22.344 [main] GymFacadeImpl - Get training with id: 1
+[INFO ] 2023-09-20 12:00:22.380 [main] GymFacadeImpl - Create trainee
+[INFO ] 2023-09-20 12:00:22.394 [main] GymFacadeImpl - Create trainer
+[INFO ] 2023-09-20 12:00:22.417 [main] GymFacadeImpl - Get trainingType with id: 1
+[INFO ] 2023-09-20 12:00:22.430 [main] GymFacadeImpl - Get trainee with id: 1
+[INFO ] 2023-09-20 12:00:22.441 [main] GymFacadeImpl - Get trainer with id: 1
+[INFO ] 2023-09-20 12:00:22.448 [main] GymFacadeImpl - Create training
+[INFO ] 2023-09-20 12:00:22.453 [main] GymFacadeImpl - Create trainingType
+[INFO ] 2023-09-20 12:09:51.546 [main] TraineeService - A trainee with this id does not exist
+[INFO ] 2023-09-20 12:09:51.582 [main] TraineeService - A trainee with this id does not exist
+[INFO ] 2023-09-20 12:09:51.768 [main] TrainerService - A trainer with this id does not exist
+[INFO ] 2023-09-20 12:13:03.400 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-09-20 12:13:03.417 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-09-20 12:13:03.524 [main] TrainerService - Such trainer does not exist
+[INFO ] 2023-09-20 12:13:37.249 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-09-20 12:13:37.264 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-09-20 12:13:37.364 [main] TrainerService - Such trainer does not exist
+[INFO ] 2023-09-20 12:15:16.445 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-09-20 12:15:16.457 [main] TraineeService - Such trainee does not exist
+[INFO ] 2023-09-20 12:15:16.577 [main] TrainerService - Such trainer does not exist

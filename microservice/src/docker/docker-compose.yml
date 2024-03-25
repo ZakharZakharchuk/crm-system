@@ -1,0 +1,10 @@
+version: '3.8'
+name: gym-crm-microservice
+services:
+  db:
+    container_name: gym-crm-microservice
+    image: mongo:latest
+    environment:
+      MONGO_INITDB_DATABASE: summary
+    ports:
+      - '27017:27017'

@@ -1,0 +1,16 @@
+server:
+  port: 5000
+
+aws:
+  queue:
+    name: 
+  accessKey: 
+  secretKey: 
+  cloud:
+    aws:
+      region:
+        static: eu-west-3
+        stack:
+          auto: false
+
+

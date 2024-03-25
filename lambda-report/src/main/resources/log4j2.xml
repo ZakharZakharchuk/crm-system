@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO" packages="com.amazonaws.services.logs.logback">
+  <Appenders>
+    <CloudWatch name="CloudWatch" logGroup="my-log-group" logStream="my-log-stream">
+      <PatternLayout pattern="%d{ISO8601} [%t] %-5level %logger{36} - %msg%n"/>
+    </CloudWatch>
+  </Appenders>
+  <Loggers>
+    <Root level="INFO">
+      <AppenderRef ref="CloudWatch"/>
+    </Root>
+  </Loggers>
+</Configuration>
